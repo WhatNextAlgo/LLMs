@@ -28,7 +28,7 @@ def load_answer(question):
 
 #App UI starts here
 st.set_page_config(page_title="LangChain Demo", page_icon=":robot:")
-st.header("LangChain Demo")
+st.header("Hey, I'm your InsightfulBot GPT")
 
 
 #Gets the user input
